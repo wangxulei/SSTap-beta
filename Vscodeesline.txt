@@ -1,0 +1,73 @@
+{
+  "editor.fontSize": 14,
+  "editor.lineHeight": 26,
+  "editor.tabSize": 2,
+  "javascript.implicitProjectConfig.experimentalDecorators": true,
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "eslint.autoFixOnSave": true,
+  "eslint.validate": [
+    "javascript",
+    {
+      "language": "vue",
+      "autoFix": true
+    },
+    {
+      "language": "html",
+      "autoFix": true
+    },
+    "js",
+    "jsx"
+  ],
+  "files.associations": {
+    "*.wxml": "html",
+    "*.wxss": "css",
+    "*.erb": "erb",
+    "*.vue": "vue",
+    "*.wpy": "vue",
+    "*.tpl": "html",
+    "*.html": "html"
+  },
+  "editor.fontFamily": "Consolas, Monaco, 'Courier New', monospace",
+  "window.zoomLevel": 0,
+  "emmet.syntaxProfiles": {
+    "vue-html": "html",
+    "erb": "html",
+    "vue": "vue",
+    "wpy": "vue"
+  },
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/bower_components": true,
+    "**/images": true,
+    "data": true,
+    "**/public": true,
+    "**/cache": true,
+    "coverage": true
+  },
+  "editor.renderIndentGuides": false,
+  "atomKeymap.promptV3Features": true,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "editor.formatOnSave": true,
+  "editor.wordWrap": "on",
+  "workbench.startupEditor": "newUntitledFile",
+  "prettier.singleQuote": true,
+  "prettier.semi": false,
+  "explorer.confirmDragAndDrop": false,
+  "breadcrumbs.enabled": true,
+  "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+  "vetur.format.defaultFormatter.js": "vscode-typescript",
+  "vetur.format.defaultFormatter.html": "prettyhtml",
+  "typescript.format.insertSpaceBeforeFunctionParenthesis": true,
+  "prettier.eslintIntegration": true,
+  "vetur.validation.template": false,
+  "javascript.format.enable": false,
+  "vetur.validation.style": false,
+  "vetur.format.defaultFormatter.js": "none"
+}
+
+
+翻墙密匙
+
+ssr://NDcuMjQwLjQ1LjExOjgwOmF1dGhfY2hhaW5fYjpjaGFjaGEyMC1pZXRmOmh0dHBfc2ltcGxlOmRHOXphR2xpWVEvP29iZnNwYXJhbT0=
